@@ -1,0 +1,30 @@
+/* *{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0; 
+   list-style: none;
+   text-decoration: none;
+}
+body{
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+}
+
+.header{
+width: max-content;
+height: max-content;
+background-color: aqua;
+}
+.header__body{
+    width: 1059px;
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+} */
